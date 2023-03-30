@@ -11,3 +11,5 @@ stats.microsoft.com
 update.microsoft.com
 windowsupdate.com
 ctldl.windowsupdate.com
+au.download.windowsupdate.com
+umwatson.events.data.microsoft.com
