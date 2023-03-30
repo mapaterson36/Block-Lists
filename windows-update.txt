@@ -1,0 +1,12 @@
+# This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. 
+# Updated March 30, 2023
+# ======================================================================================================
+
+windowsupdate.microsoft.com
+download.windowsupdate.com
+download.microsoft.com
+wustat.windows.com
+ntservicepack.microsoft.com
+stats.microsoft.com
+update.microsoft.com
+windowsupdate.com
