@@ -10,3 +10,4 @@ ntservicepack.microsoft.com
 stats.microsoft.com
 update.microsoft.com
 windowsupdate.com
+ctldl.windowsupdate.com
