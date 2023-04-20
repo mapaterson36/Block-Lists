@@ -13,3 +13,15 @@ windowsupdate.com
 ctldl.windowsupdate.com
 au.download.windowsupdate.com
 umwatson.events.data.microsoft.com
+
+
+
+# Newly Identified DNS Beacons Connecting to Russian C2s
+# Reported by Infoblox Threat Intelligence Advisory Alert: 04/18/2023
+
+claudfront.net
+allowlisted.net
+atlas-upd.com
+ads-tm-glb.click
+cbox4.ignorelist.com
+hsdps.cc
