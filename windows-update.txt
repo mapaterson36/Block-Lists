@@ -25,3 +25,8 @@ atlas-upd.com
 ads-tm-glb.click
 cbox4.ignorelist.com
 hsdps.cc
+
+
+# icloud private relay
+mask.icloud.com
+mask-h2.icloud.com
