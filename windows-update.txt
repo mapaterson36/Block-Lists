@@ -26,7 +26,15 @@ ads-tm-glb.click
 cbox4.ignorelist.com
 hsdps.cc
 
+# Privacy
+analytic.rollout.io
+www.msftconnecttest.com
+
 
 # icloud private relay
 mask.icloud.com
 mask-h2.icloud.com
+
+# RegEX lists
+(^|\.)(cn|ru|by|ga|hk)$
+(\.|^)nielsencollections\.com$
