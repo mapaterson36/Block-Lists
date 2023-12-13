@@ -36,5 +36,5 @@ mask.icloud.com
 mask-h2.icloud.com
 
 # RegEX lists
-(^|\.)(cn|ru|by|ga|hk)$
+(^|\.)(ae|al|nl|ng|tw|ua|cn|ru|by|ga|hk)$
 (\.|^)nielsencollections\.com$
