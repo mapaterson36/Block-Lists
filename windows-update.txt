@@ -2,28 +2,22 @@
 # Updated March 30, 2023
 # ======================================================================================================
 
-windowsupdate.microsoft.com
-download.windowsupdate.com
-download.microsoft.com
-wustat.windows.com
-ntservicepack.microsoft.com
-stats.microsoft.com
-update.microsoft.com
-windowsupdate.com
-ctldl.windowsupdate.com
-au.download.windowsupdate.com
-umwatson.events.data.microsoft.com
+0.0.0.0  windowsupdate.microsoft.com
+0.0.0.0  download.windowsupdate.com
+0.0.0.0  download.microsoft.com
+0.0.0.0  wustat.windows.com
+0.0.0.0  ntservicepack.microsoft.com
+0.0.0.0  stats.microsoft.com
+0.0.0.0  update.microsoft.com
+0.0.0.0  windowsupdate.com
+0.0.0.0  ctldl.windowsupdate.com
+0.0.0.0  au.download.windowsupdate.com
+0.0.0.0  umwatson.events.data.microsoft.com
 
 # Google
 
-clients.i.google.com
-clients2.google.com
-clients4.google.com
-www.google.com
-tools.google.com
-update.gooleapis.com
-m.google.com
-dl.google.com
+0.0.0.0  tools.google.com
+0.0.0.0  update.gooleapis.com
 
 # Newly Identified DNS Beacons Connecting to Russian C2s
 # Reported by Infoblox Threat Intelligence Advisory Alert: 04/18/2023
@@ -36,13 +30,13 @@ cbox4.ignorelist.com
 hsdps.cc
 
 # Privacy
-analytic.rollout.io
-www.msftconnecttest.com
+0.0.0.0  analytic.rollout.io
+0.0.0.0  www.msftconnecttest.com
 
 
 # icloud private relay
-mask.icloud.com
-mask-h2.icloud.com
+0.0.0.0  mask.icloud.com
+0.0.0.0  mask-h2.icloud.com
 
 # RegEX lists
 (^|\.)(ae|al|nl|ng|tw|ua|cn|ru|by|ga|hk)$
