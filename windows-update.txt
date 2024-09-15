@@ -14,7 +14,16 @@ ctldl.windowsupdate.com
 au.download.windowsupdate.com
 umwatson.events.data.microsoft.com
 
+# Google
 
+clients.i.google.com
+clients2.google.com
+clients4.google.com
+www.google.com
+tools.google.com
+update.gooleapis.com
+m.google.com
+dl.google.com
 
 # Newly Identified DNS Beacons Connecting to Russian C2s
 # Reported by Infoblox Threat Intelligence Advisory Alert: 04/18/2023
