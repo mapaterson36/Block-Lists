@@ -1,6 +1,6 @@
-benjamin-w.logs.roku.com
-cooper.logs.roku.com
-scribe.logs.roku.com
-pcloud.logs.roku.com
-customer-feedbacks.roku.com
-ads.roku.com
+0.0.0.0  benjamin-w.logs.roku.com
+0.0.0.0  cooper.logs.roku.com
+0.0.0.0  scribe.logs.roku.com
+0.0.0.0  pcloud.logs.roku.com
+0.0.0.0  customer-feedbacks.roku.com
+0.0.0.0  ads.roku.com
